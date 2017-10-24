@@ -1,0 +1,17 @@
+body {
+	background: lightgreen;
+}
+
+.jumbotron {
+	background: lightgrey;
+}
+
+form .error {
+	color: red;
+}
+
+nav {
+	background: lightgreen;
+	position: absolute;
+	width: 100%;
+}
